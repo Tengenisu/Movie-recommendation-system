@@ -1,7 +1,4 @@
-
-Sure! Here's a basic README.md template for your project that includes the use of cosine similarity for a movie recommendation system:
-
-Movie Recommendation System
+                                Movie Recommendation System
 This project is a movie recommendation system that uses cosine similarity to suggest movies based on user preferences. The system processes movie data and compares it using cosine similarity to provide recommendations based on text-based features such as movie descriptions or genres.
 
 Features
